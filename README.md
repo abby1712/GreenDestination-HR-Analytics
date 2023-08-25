@@ -1,4 +1,7 @@
-Green Destinations HR Analytics Dashboard
+#Green Destinations HR Analytics Dashboard
+<img width="383" alt="Screenshot 2023-08-25 at 5 25 45 PM" src="https://github.com/abby1712/GreenDestination-HR-Analytics/assets/72368959/1de4eb5f-d33d-453a-9ad6-395831fbfd9d">
+
+
 This repository contains the files and information related to the Green Destinations HR Analytics Dashboard. 
 The project utilizes data visualization tools to create an interactive dashboard for analyzing HR-related metrics. 
 The dataset used for this project is available in CSV format.
